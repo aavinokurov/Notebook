@@ -1,0 +1,7 @@
+C:\C#\Notebook\Notebook\Notebook\bin\Debug\Notebook.exe.config
+C:\C#\Notebook\Notebook\Notebook\bin\Debug\Notebook.exe
+C:\C#\Notebook\Notebook\Notebook\bin\Debug\Notebook.pdb
+C:\C#\Notebook\Notebook\Notebook\obj\Debug\Notebook.csprojAssemblyReference.cache
+C:\C#\Notebook\Notebook\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\C#\Notebook\Notebook\Notebook\obj\Debug\Notebook.exe
+C:\C#\Notebook\Notebook\Notebook\obj\Debug\Notebook.pdb
